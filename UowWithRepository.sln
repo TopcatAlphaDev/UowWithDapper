@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UowWithRepository", "ConsoleApp4\UowWithRepository.csproj", "{B7DAA270-1F37-4F64-ABEB-0362B7430403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7DAA270-1F37-4F64-ABEB-0362B7430403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DAA270-1F37-4F64-ABEB-0362B7430403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DAA270-1F37-4F64-ABEB-0362B7430403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DAA270-1F37-4F64-ABEB-0362B7430403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B111CF9F-5263-41F2-A1D5-AB132697FB40}
+	EndGlobalSection
+EndGlobal
